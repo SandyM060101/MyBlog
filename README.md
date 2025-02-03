@@ -23,6 +23,23 @@ Anggota Kelompok
     <td>
       <img src="https://github.com/SandyM060101/uas-semester7/blob/main/public/img/26.png?raw=true" width="200"/>
     </td>
+    <td>
+      <img src="https://github.com/SandyM060101/MyBlog/blob/main/public/image/HalamanCategory.png?raw=true" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/SandyM060101/MyBlog/blob/main/public/image/HalamanPage.png?raw=true" width="200"/>
+    </td>
+    <td>
+      <img src="https://github.com/SandyM060101/MyBlog/blob/main/public/image/HalamanPost.png?raw=true" width="200"/>
+    </td>
+    <td>
+      <img src="https://github.com/SandyM060101/MyBlog/blob/main/public/image/HalamanComment.png?raw=true" width="200"/>
+    </td>
+    <td>
+      <img src="https://github.com/SandyM060101/MyBlog/blob/main/public/image/HalamanAbout.png?raw=true" width="200"/>
+    </td>
   </tr>
 </table>
 
