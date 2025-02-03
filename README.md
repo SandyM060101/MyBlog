@@ -34,6 +34,7 @@ Teknologi Yang Digunakan
 
 - Laravel Versi 11.41.1
 - Filament Versi 3.2
+- Tailwind Sebagai Framework CSS
 - PHP 8.2 / 8.3
 - Database Mysql
 - Composer
