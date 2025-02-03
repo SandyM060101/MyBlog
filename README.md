@@ -127,6 +127,20 @@ Tampilan Website
       <img src="https://github.com/SandyM060101/MyBlog/blob/main/public/image/HalamanAbout.png?raw=true" width="200"/>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/SandyM060101/MyBlog/blob/main/public/image/InputCategory.png?raw=true" width="200"/>
+    </td>
+    <td>
+      <img src="https://github.com/SandyM060101/MyBlog/blob/main/public/image/InputPage.png?raw=true" width="200"/>
+    </td>
+    <td>
+      <img src="https://github.com/SandyM060101/MyBlog/blob/main/public/image/InputPost.png?raw=true" width="200"/>
+    </td>
+    <td>
+      <img src="https://github.com/SandyM060101/MyBlog/blob/main/public/image/InputComment.png?raw=true" width="200"/>
+    </td>
+  </tr>
 </table>
 
 ## Learning Laravel
