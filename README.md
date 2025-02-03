@@ -96,6 +96,21 @@ php artisan migrate:fresh &&
 php artisan storage:link
 ```
 
+Tampilan Website
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/SandyM060101/MyBlog/blob/main/public/image/HalamanUtama.png?raw=true" width="200"/>
+    </td>
+    <td>
+      <img src="https://github.com/SandyM060101/MyBlog/blob/main/public/image/HalamanLogin.png?raw=true" width="200"/>
+    </td>
+    <td>
+      <img src="https://github.com/SandyM060101/MyBlog/blob/main/public/image/HalamanDashboard.png?raw=true" width="200"/>
+    </td>
+  </tr>
+</table>
 
 ## Learning Laravel
 
